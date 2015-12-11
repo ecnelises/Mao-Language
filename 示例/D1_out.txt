@@ -1,0 +1,4 @@
+2
+-12.000000
+10
+divided by ZERO
